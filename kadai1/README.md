@@ -22,9 +22,14 @@ Go to the store and buy some more, 99 bottles of beer on the wall.
 
 ## 回答方法
 
-1. https://github.com/husniikura/kadai2020 を fork する。
+1. https://github.com/husniikura/kadai2020-1 を fork する。
 2. kadai1 フォルダーに回答のコードを書いてPUSHする。
 
 ## 提出方法
 
 1. fork したリポジトリでプルリクエストを作成する。
+2. 念のため、プルリクエストを作成したことをSlackのチャンネルで通知する。
+
+## 提出期限
+
+* 提出期限は、6月30日(火)までとする。
